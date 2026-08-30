@@ -13,4 +13,6 @@ Be carefull viewing my Github, here will be my personel projects for my livestre
 ![Static Badge](https://img.shields.io/badge/t.tv-rafaelmanu001-violet?style=flat&logo=twitch&logoSize=auto)|
 ![Static Badge](https://img.shields.io/badge/autohost-adept-violet?style=flat&logo=homeassistant&logoSize=auto)
 
-![Static Badge](https://github-stats-extended.vercel.app/api/?username=gmrsvoiage&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=GMRsVoiage%27s+Stats&disable_animations=false&number_format=long&show=prs_merged_percentage,prs_reviewed)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=GMRsVoiage&layout=pie&langs_count=16&hide_values=true&theme=radical)](https://github-stats-extended.vercel.app/api/top-langs?username=GMRsVoiage&layout=pie&langs_count=16&hide_values=true&theme=radical)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=GMRsVoiage&custom_title=GMRsVoiage&show_icons=true&include_all_commits=true&theme=radical)](https://github-stats-extended.vercel.app/api?username=GMRsVoiage&custom_title=GMRsVoiage&show_icons=true&include_all_commits=true&theme=radical)
