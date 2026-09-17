@@ -1,1 +1,108 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#8ED9FF"/>
+      <stop offset="0.52" stop-color="#D8F6FF"/>
+      <stop offset="1" stop-color="#F7FEFF"/>
+    </linearGradient>
+    <linearGradient id="hillFar" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#B7F39A"/>
+      <stop offset="1" stop-color="#5BC45F"/>
+    </linearGradient>
+    <linearGradient id="hillNear" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#74E078"/>
+      <stop offset="1" stop-color="#2EAF59"/>
+    </linearGradient>
+    <linearGradient id="water" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#BDF9FF"/>
+      <stop offset="0.35" stop-color="#6CDEFF"/>
+      <stop offset="1" stop-color="#28AEE8"/>
+    </linearGradient>
+    <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.86"/>
+      <stop offset="0.45" stop-color="#F5FDFF" stop-opacity="0.67"/>
+      <stop offset="1" stop-color="#CDEEFF" stop-opacity="0.42"/>
+    </linearGradient>
+    <linearGradient id="glassTop" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#69D9FF"/>
+      <stop offset="0.5" stop-color="#1B9DEE"/>
+      <stop offset="1" stop-color="#1768D6"/>
+    </linearGradient>
+    <linearGradient id="pill" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.96"/>
+      <stop offset="1" stop-color="#D7F5FF" stop-opacity="0.76"/>
+    </linearGradient>
+    <radialGradient id="sunGlow">
+      <stop offset="0" stop-color="#FFFED0" stop-opacity="1"/>
+      <stop offset="0.42" stop-color="#FFF6A4" stop-opacity="0.7"/>
+      <stop offset="1" stop-color="#FFF6A4" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="bubble" cx="35%" cy="28%" r="75%">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.98"/>
+      <stop offset="0.18" stop-color="#FFFFFF" stop-opacity="0.48"/>
+      <stop offset="0.56" stop-color="#B8F6FF" stop-opacity="0.14"/>
+      <stop offset="0.82" stop-color="#56B7F5" stop-opacity="0.17"/>
+      <stop offset="1" stop-color="#1683D7" stop-opacity="0.28"/>
+    </radialGradient>
+  </defs>
 
+  <rect width="1200" height="360" rx="30" fill="url(#sky)"/>
+  <circle cx="930" cy="75" r="105" fill="url(#sunGlow)"/>
+  <circle cx="930" cy="75" r="34" fill="#FFF9B4" fill-opacity="0.9"/>
+
+  <g fill="#FFFFFF" opacity="0.86">
+    <ellipse cx="140" cy="72" rx="74" ry="22"/>
+    <ellipse cx="101" cy="70" rx="40" ry="28"/>
+    <ellipse cx="178" cy="67" rx="48" ry="31"/>
+    <ellipse cx="760" cy="64" rx="66" ry="20"/>
+    <ellipse cx="720" cy="64" rx="36" ry="25"/>
+    <ellipse cx="799" cy="60" rx="43" ry="28"/>
+  </g>
+
+  <path d="M0 247C115 207 221 190 332 207C438 223 493 258 590 258C676 258 749 221 839 207C946 190 1053 206 1200 245V360H0V247Z" fill="url(#hillFar)"/>
+  <path d="M0 282C104 251 201 238 306 248C399 257 481 283 570 289C693 297 778 269 890 257C999 245 1096 257 1200 288V360H0V282Z" fill="url(#hillNear)"/>
+
+  <path d="M0 286C128 272 229 269 335 278C443 287 521 306 628 311C744 316 851 298 959 288C1042 280 1124 281 1200 289V360H0V286Z" fill="url(#water)"/>
+  <path d="M0 298C115 289 222 286 328 293C449 301 548 316 653 320C771 324 877 307 986 300C1060 295 1133 296 1200 302" fill="none" stroke="#E9FFFF" stroke-opacity="0.72" stroke-width="4"/>
+  <path d="M0 323C142 312 256 311 378 319C499 328 603 338 721 338C851 338 982 319 1200 325" fill="none" stroke="#CFFBFF" stroke-opacity="0.56" stroke-width="3"/>
+
+  <g>
+    <circle cx="92" cy="150" r="31" fill="url(#bubble)" stroke="#FFFFFF" stroke-opacity="0.68" stroke-width="1.5"/>
+    <circle cx="86" cy="142" r="8" fill="#FFFFFF" fill-opacity="0.62"/>
+
+    <circle cx="1090" cy="188" r="52" fill="url(#bubble)" stroke="#FFFFFF" stroke-opacity="0.55" stroke-width="2"/>
+    <circle cx="1078" cy="172" r="13" fill="#FFFFFF" fill-opacity="0.5"/>
+
+    <circle cx="1000" cy="120" r="19" fill="url(#bubble)" stroke="#FFFFFF" stroke-opacity="0.58"/>
+    <circle cx="995" cy="114" r="5" fill="#FFFFFF" fill-opacity="0.62"/>
+
+    <circle cx="214" cy="233" r="17" fill="url(#bubble)" stroke="#FFFFFF" stroke-opacity="0.62"/>
+    <circle cx="209" cy="227" r="4" fill="#FFFFFF" fill-opacity="0.7"/>
+  </g>
+
+  <g>
+    <rect x="258" y="50" width="700" height="212" rx="28" fill="#1683D7" fill-opacity="0.18"/>
+    <rect x="250" y="42" width="700" height="212" rx="28" fill="url(#glass)" stroke="#32B9F2" stroke-width="2"/>
+    <rect x="250" y="42" width="700" height="43" rx="28" fill="url(#glassTop)"/>
+    <rect x="250" y="66" width="700" height="19" fill="url(#glassTop)"/>
+
+    <path d="M272 48H928C937 48 943 54 943 62V66H257V62C257 54 263 48 272 48Z" fill="#FFFFFF" fill-opacity="0.17"/>
+
+    <circle cx="900" cy="63" r="6" fill="#A5E9FF" fill-opacity="0.9"/>
+    <circle cx="919" cy="63" r="6" fill="#7BD7FF" fill-opacity="0.9"/>
+    <circle cx="938" cy="63" r="6" fill="#C9F4FF" fill-opacity="0.95"/>
+
+    <path d="M271 91H929V112C781 95 589 94 271 123V91Z" fill="#FFFFFF" fill-opacity="0.23"/>
+
+    <text x="286" y="69" font-family="Segoe UI, Trebuchet MS, Arial, sans-serif" font-size="16" font-weight="700" fill="#FFFFFF" letter-spacing="1.2">GMRsVOIAGE // AERO DESKTOP</text>
+
+    <text x="600" y="137" text-anchor="middle" font-family="Segoe UI, Trebuchet MS, Arial, sans-serif" font-size="52" font-weight="700" fill="#0B79B8">GMRsVoiage</text>
+    <text x="600" y="166" text-anchor="middle" font-family="Segoe UI, Trebuchet MS, Arial, sans-serif" font-size="15" font-weight="700" fill="#2189B9" letter-spacing="3">GAMES • CODE • HARDWARE • AUTOMATION • STREAMS</text>
+
+    <rect x="397" y="186" width="406" height="42" rx="21" fill="url(#pill)" stroke="#84D9F7"/>
+    <circle cx="424" cy="207" r="12" fill="url(#bubble)" stroke="#FFFFFF" stroke-opacity="0.72"/>
+    <text x="607" y="213" text-anchor="middle" font-family="Segoe UI, Trebuchet MS, Arial, sans-serif" font-size="17" font-weight="600" fill="#176E9E">building a brighter little corner of the internet</text>
+  </g>
+
+  <path d="M28 274C145 245 245 239 349 250" fill="none" stroke="#D7FFD0" stroke-opacity="0.6" stroke-width="4" stroke-linecap="round"/>
+</svg>
