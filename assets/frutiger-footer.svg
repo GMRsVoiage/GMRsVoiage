@@ -1,1 +1,47 @@
+<svg width="1200" height="150" viewBox="0 0 1200 150" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#DDF8FF"/>
+      <stop offset="1" stop-color="#8EDCFF"/>
+    </linearGradient>
+    <linearGradient id="water" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#A9F3FF"/>
+      <stop offset="1" stop-color="#35B7EA"/>
+    </linearGradient>
+    <linearGradient id="grass" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#8EEB83"/>
+      <stop offset="1" stop-color="#32B55A"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.78"/>
+      <stop offset="1" stop-color="#CBEFFF" stop-opacity="0.5"/>
+    </linearGradient>
+    <radialGradient id="bubble" cx="35%" cy="25%" r="80%">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.98"/>
+      <stop offset="0.23" stop-color="#FFFFFF" stop-opacity="0.46"/>
+      <stop offset="0.64" stop-color="#B8F5FF" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#1687D6" stop-opacity="0.28"/>
+    </radialGradient>
+  </defs>
 
+  <rect width="1200" height="150" rx="26" fill="url(#sky)"/>
+
+  <path d="M0 95C111 70 218 68 329 79C436 90 526 113 632 112C746 112 852 86 966 82C1041 79 1117 85 1200 103V150H0V95Z" fill="url(#grass)"/>
+  <path d="M0 108C133 99 248 100 359 107C474 115 579 130 695 131C833 132 946 115 1064 109C1110 107 1157 108 1200 112V150H0V108Z" fill="url(#water)"/>
+  <path d="M0 119C159 110 273 111 389 119C505 127 619 138 745 138C879 138 1024 118 1200 123" fill="none" stroke="#ECFFFF" stroke-opacity="0.7" stroke-width="3"/>
+
+  <circle cx="92" cy="52" r="24" fill="url(#bubble)" stroke="#FFFFFF" stroke-opacity="0.63"/>
+  <circle cx="86" cy="45" r="6" fill="#FFFFFF" fill-opacity="0.68"/>
+  <circle cx="1086" cy="47" r="18" fill="url(#bubble)" stroke="#FFFFFF" stroke-opacity="0.58"/>
+  <circle cx="1081" cy="42" r="4" fill="#FFFFFF" fill-opacity="0.7"/>
+  <circle cx="1028" cy="72" r="9" fill="url(#bubble)" stroke="#FFFFFF" stroke-opacity="0.5"/>
+
+  <g>
+    <rect x="244" y="28" width="724" height="63" rx="22" fill="#0B74B1" fill-opacity="0.16"/>
+    <rect x="238" y="22" width="724" height="63" rx="22" fill="url(#bar)" stroke="#49BDED" stroke-width="1.5"/>
+    <path d="M255 28H945C951 28 956 33 956 39V44C765 33 460 34 244 49V39C244 33 249 28 255 28Z" fill="#FFFFFF" fill-opacity="0.32"/>
+    <circle cx="275" cy="53" r="13" fill="url(#bubble)" stroke="#FFFFFF" stroke-opacity="0.7"/>
+    <text x="600" y="50" text-anchor="middle" font-family="Segoe UI, Trebuchet MS, Arial, sans-serif" font-size="21" font-weight="700" fill="#146F9F">keep exploring • keep building • keep creating</text>
+    <text x="600" y="71" text-anchor="middle" font-family="Segoe UI, Trebuchet MS, Arial, sans-serif" font-size="11" font-weight="700" fill="#2A8BB3" letter-spacing="2.4">FRUTIGER AERO // GMRsVOIAGE</text>
+  </g>
+</svg>
