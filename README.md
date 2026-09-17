@@ -68,3 +68,5 @@ Most projects here started from curiosity, studies, experiments, or simply from 
 │  💿 2000s internet optimism                  │
 │  🧪 always experimenting                     │
 ╰──────────────────────────────────────────────╯
+```
+<img src="./assets/frutiger-footer.svg" width="100%" alt="GMRsVoiage Frutiger Aero banner" />
