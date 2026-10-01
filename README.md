@@ -58,6 +58,25 @@ Most projects here started from curiosity, studies, experiments, or simply from 
 
 ---
 
+
+## 🗂️ Projetos públicos / Public projects
+
+Uma seleção organizada dos repositórios públicos. Projetos de estudo ou em fase conceitual estão identificados como tal; repositórios privados não fazem parte desta vitrine.
+
+| Categoria | Projeto | Descrição |
+| --- | --- | --- |
+| Pesquisa pública | [Edital Monitor](https://github.com/GMRsVoiage/edital-monitor) | Busca textual em boletins oficiais, com API e coletor. |
+| Apps | [Together Notes](https://github.com/GMRsVoiage/Together-Notes) | Aplicativo acadêmico Android para registrar descobertas e lugares. |
+| Interface | [GMRsVoiage RetroWave](https://github.com/GMRsVoiage/gmrs-retrowave) | Tema Synthwave para phpMyAdmin. |
+| Streaming | [Stream](https://github.com/GMRsVoiage/stream) | Identidade visual, cenas e overlays para OBS. |
+| Hardware / DIY | [InoHid](https://github.com/GMRsVoiage/inohid) | Experimentos com entradas físicas, serial e teclas virtuais. |
+| Games | [CS2-CFG](https://github.com/GMRsVoiage/CS2-CFG) | Configurações pessoais para Counter-Strike 2. |
+| Estudos | [TADS](https://github.com/GMRsVoiage/tads) | Atividades e materiais acadêmicos organizados por período. |
+
+Outros experimentos públicos: [EiLick](https://github.com/GMRsVoiage/EiLick), [DIY-GWheel](https://github.com/GMRsVoiage/DIY-GWheel), [crud_2025](https://github.com/GMRsVoiage/crud_2025) e [Jogos Digitais](https://github.com/GMRsVoiage/jogosdigitais_rafaelcfragoso).
+
+---
+
 ## 🫧 Current vibe
 
 ```text
