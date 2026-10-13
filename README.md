@@ -6,10 +6,12 @@
 
 ### `code • open data • web • hardware • streaming • experiments`
 
-![TADS](https://img.shields.io/badge/TADS-IFPR-4FD1C5?style=for-the-badge)
-![Brazil](https://img.shields.io/badge/Brazil-Developer-53C66B?style=for-the-badge&logo=googleearth&logoColor=white)
-![Status](https://img.shields.io/badge/status-always_building-5BB8FF?style=for-the-badge)
-![Aesthetic](https://img.shields.io/badge/style-Frutiger_Aero-8AD7FF?style=for-the-badge)
+<p align="center">
+<img src="./assets/buttons/tads.svg" width="88" height="31" alt="TADS — estudante no IFPR" />&nbsp;
+<img src="./assets/buttons/brazil.svg" width="88" height="31" alt="Brasil — desenvolvedor" />&nbsp;
+<img src="./assets/buttons/building.svg" width="88" height="31" alt="Status — Always Building, sempre construindo" />&nbsp;
+<img src="./assets/buttons/aero.svg" width="88" height="31" alt="Estética — Frutiger Aero" />
+</p>
 
 <!-- Web buttons estáticos em tamanho nativo: links de teclado e foco do próprio GitHub. -->
 <p align="center">
@@ -165,3 +167,4 @@ Continuar o desenvolvimento do **ODA**, ampliar o **GMRsVoiage Support**, evolui
 <img src="./assets/frutiger-footer.svg" width="100%" alt="Rodapé Frutiger Aero GMRsVoiage com céu, água, colinas e bolhas" />
 
 </div>
+

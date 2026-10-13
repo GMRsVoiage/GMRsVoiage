@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="88" height="31" viewBox="0 0 88 31" role="img" aria-labelledby="aero-title aero-desc">
+  <title id="aero-title">Frutiger Aero</title>
+  <desc id="aero-desc">Céu azul, globo verde glossy e bolhas translúcidas inspirados no Frutiger Aero.</desc>
+  <defs>
+    <linearGradient id="aero-sky" x2="0" y2="1"><stop stop-color="#41b9ee"/><stop offset=".5" stop-color="#d0f6ff"/><stop offset=".54" stop-color="#51bfd2"/><stop offset="1" stop-color="#057db0"/></linearGradient>
+    <radialGradient id="aero-globe" cx=".3" cy=".2" r=".8"><stop stop-color="#e1fcff"/><stop offset=".35" stop-color="#70d8fb"/><stop offset=".75" stop-color="#0780b5"/><stop offset="1" stop-color="#064977"/></radialGradient>
+    <linearGradient id="aero-leaf" x2="1" y2="1"><stop stop-color="#d0ff4e"/><stop offset="1" stop-color="#0d962e"/></linearGradient>
+  </defs>
+  <path fill="#006588" d="M0 0h88v31H0z"/>
+  <path fill="url(#aero-sky)" stroke="#ceffff" d="M1.5 1.5h85v28h-85z"/>
+  <path fill="#fff" opacity=".55" d="M2 10q7-5 14-2t13 0q8-5 16-1t18 0q12-6 23 0v4H2z"/>
+  <path fill="#82cf52" d="M2 26q10-7 27-2t32-1q14-5 25-1v7H2z"/>
+  <circle cx="17" cy="15" r="11.5" fill="url(#aero-globe)" stroke="#edffff" stroke-width=".8"/>
+  <path fill="url(#aero-leaf)" d="m9 6 5-1 2 3-2 3 3 3-1 3-4-1-3-4-3-1zm13 3 4 2 2 5-3 1-1 4-4 4-2-3 2-5-2-3z"/>
+  <path fill="none" stroke="#ddffff" opacity=".4" stroke-width=".5" d="M6 15h22M8 9q9 5 18 0M8 21q9-5 18 0M17 4q-10 11 0 22m0-22q10 11 0 22"/>
+  <ellipse cx="14" cy="8" rx="6.6" ry="3.1" fill="#fff" opacity=".58" transform="rotate(-21 14 8)"/>
+  <text x="34" y="11" fill="#08788f" font-family="Tahoma,Arial,sans-serif" font-size="6.7" font-weight="700" letter-spacing=".65">FRUTIGER</text>
+  <text x="33" y="25" fill="#05728b" font-family="Arial,sans-serif" font-size="14.7" font-weight="900" letter-spacing=".7">AERO</text>
+  <text x="33" y="24" fill="#fff" font-family="Arial,sans-serif" font-size="14.7" font-weight="900" letter-spacing=".7">AERO</text>
+  <g fill="#d8ffff" fill-opacity=".2" stroke="#edffff" stroke-opacity=".8" stroke-width=".6"><circle cx="81" cy="7" r="3.7"/><circle cx="76" cy="26" r="2.2"/><circle cx="31" cy="4" r="1.6"/></g>
+  <path stroke="#fff" stroke-width="1" stroke-linecap="round" d="m79.5 5 1-.5"/>
+</svg>

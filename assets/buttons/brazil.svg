@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="88" height="31" viewBox="0 0 88 31" role="img" aria-labelledby="title desc">
+  <title id="title">Brazil — Developer</title>
+  <desc id="desc">Bandeira brasileira com brilho de vidro, faixa verde e amarela e letras de desenvolvedor.</desc>
+  <defs>
+    <linearGradient id="green" x2="0" y2="1"><stop stop-color="#b8f2ad"/><stop offset=".43" stop-color="#299348"/><stop offset=".46" stop-color="#0b5d37"/><stop offset="1" stop-color="#1f9c64"/></linearGradient>
+    <linearGradient id="gold" x2="0" y2="1"><stop stop-color="#fff8a3"/><stop offset="1" stop-color="#f6ce47"/></linearGradient>
+    <radialGradient id="blue" cx=".3" cy=".2" r=".85"><stop stop-color="#98deff"/><stop offset=".4" stop-color="#1769b4"/><stop offset="1" stop-color="#112b69"/></radialGradient>
+  </defs>
+  <path fill="#063a32" d="M0 0h88v31H0z"/>
+  <path fill="url(#green)" stroke="#d7ffbf" d="M1.5 1.5h85v28h-85z"/>
+  <path fill="#0b6b3d" stroke="#a3de83" stroke-width=".6" d="M4 7h25v17H4z"/>
+  <path fill="url(#gold)" d="m16.5 8.5 11 7-11 7-11-7z"/>
+  <circle cx="16.5" cy="15.5" r="5" fill="url(#blue)"/>
+  <path d="M12 14.2q4.5-1.8 9 2.4" stroke="#e5fff0" stroke-width="1" fill="none"/>
+  <path fill="#fff" d="M15 17h.8v.8H15m3 1h.8v.8H18m0-6h.6v.6H18"/>
+  <text x="34" y="13" fill="#063c31" font-family="Arial,sans-serif" font-size="10" font-weight="900" textLength="48" lengthAdjust="spacingAndGlyphs">BRAZIL</text>
+  <text x="33" y="12" fill="#f8ffe3" font-family="Arial,sans-serif" font-size="10" font-weight="900" textLength="48" lengthAdjust="spacingAndGlyphs">BRAZIL</text>
+  <path fill="url(#gold)" d="M32 17h52v10H32z"/>
+  <text x="34" y="24" fill="#153b30" font-family="monospace" font-size="7.1" font-weight="700" textLength="48" lengthAdjust="spacingAndGlyphs">DEVELOPER</text>
+  <path fill="#fff" opacity=".19" d="M2 2h84v5Q42 3 2 16z"/>
+  <path d="M3 28h82" stroke="#b3f3bb" opacity=".6"/>
+</svg>
