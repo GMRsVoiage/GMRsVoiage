@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="88" height="31" viewBox="0 0 88 31" role="img" aria-labelledby="title desc">
+  <title id="title">Minhas Artes — Galeria digital</title>
+  <desc id="desc">Software gráfico dos anos 2000, pincel, paleta vibrante e janela azul.</desc>
+  <defs><linearGradient id="paint" x2="1" y2="1"><stop stop-color="#351ea5"/><stop offset=".48" stop-color="#b33cb2"/><stop offset="1" stop-color="#ff986c"/></linearGradient></defs>
+  <path fill="url(#paint)" d="M0 0h88v31H0z"/>
+  <path fill="#043f9f" d="M1 1h86v5H1z"/><path fill="#adddff" d="M3 2h38v2H3z"/><path fill="#fff" d="M80 2h4v2h-4z"/>
+  <path fill="#dfe6f1" d="M3 8h23v20H3z"/><path fill="#fff" d="M6 10h18v14H6z"/>
+  <path d="M7 21q4-13 8-5t8-5" fill="none" stroke="#eb379c" stroke-width="2"/>
+  <path stroke="#542b35" stroke-width="2" d="m11 23 10-13"/><path fill="#f8bd73" d="m19 11 2-3 3 2-3 3z"/>
+  <path fill="#18d5eb" d="M5 26h4v2H5z"/><path fill="#f44390" d="M10 26h4v2h-4z"/><path fill="#ffdf4f" d="M15 26h4v2h-4z"/><path fill="#72ef8b" d="M20 26h4v2h-4z"/>
+  <path fill="#fff9ed" shape-rendering="crispEdges" d="M37 10h3v1h-3zM36 11h1v1h-1zM40 11h1v1h-1zM36 12h1v1h-1zM40 12h1v1h-1zM36 13h5v1h-5zM36 14h1v1h-1zM40 14h1v1h-1zM36 15h1v1h-1zM40 15h1v1h-1zM36 16h1v1h-1zM40 16h1v1h-1zM42 10h4v1h-4zM42 11h1v1h-1zM46 11h1v1h-1zM42 12h1v1h-1zM46 12h1v1h-1zM42 13h4v1h-4zM42 14h1v1h-1zM44 14h1v1h-1zM42 15h1v1h-1zM45 15h1v1h-1zM42 16h1v1h-1zM46 16h1v1h-1zM48 10h5v1h-5zM50 11h1v1h-1zM50 12h1v1h-1zM50 13h1v1h-1zM50 14h1v1h-1zM50 15h1v1h-1zM50 16h1v1h-1zM54 10h5v1h-5zM54 11h1v1h-1zM54 12h1v1h-1zM54 13h4v1h-4zM54 14h1v1h-1zM54 15h1v1h-1zM54 16h5v1h-5zM61 10h4v1h-4zM60 11h1v1h-1zM60 12h1v1h-1zM61 13h3v1h-3zM64 14h1v1h-1zM64 15h1v1h-1zM60 16h4v1h-4z"/><path fill="#24124d" shape-rendering="crispEdges" d="M39 22h2v1h-2zM38 23h1v1h-1zM38 24h1v1h-1zM40 24h1v1h-1zM38 25h1v1h-1zM40 25h1v1h-1zM39 26h2v1h-2zM43 22h1v1h-1zM42 23h1v1h-1zM44 23h1v1h-1zM42 24h3v1h-3zM42 25h1v1h-1zM44 25h1v1h-1zM42 26h1v1h-1zM44 26h1v1h-1zM46 22h1v1h-1zM46 23h1v1h-1zM46 24h1v1h-1zM46 25h1v1h-1zM46 26h3v1h-3zM50 22h3v1h-3zM50 23h1v1h-1zM50 24h2v1h-2zM50 25h1v1h-1zM50 26h3v1h-3zM54 22h2v1h-2zM54 23h1v1h-1zM56 23h1v1h-1zM54 24h2v1h-2zM54 25h1v1h-1zM56 25h1v1h-1zM54 26h1v1h-1zM56 26h1v1h-1zM58 22h3v1h-3zM59 23h1v1h-1zM59 24h1v1h-1zM59 25h1v1h-1zM58 26h3v1h-3zM63 22h1v1h-1zM62 23h1v1h-1zM64 23h1v1h-1zM62 24h3v1h-3zM62 25h1v1h-1zM64 25h1v1h-1zM62 26h1v1h-1zM64 26h1v1h-1z"/>
+  <path d="M.5 30.5V.5h87" fill="none" stroke="#b6d8ff"/><path d="M.5 30.5h87V.5" fill="none" stroke="#392477"/>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="88" height="31" viewBox="0 0 88 31" role="img" aria-labelledby="oda-title oda-desc">
+  <title id="oda-title">O Diário Aberto</title>
+  <desc id="oda-desc">Botão de arquivo pessoal com papel creme, letras verdes e uma lupa.</desc>
+  <defs>
+    <linearGradient id="oda-paper" x2="0" y2="1"><stop stop-color="#fffef0"/><stop offset="1" stop-color="#e0d9b7"/></linearGradient>
+    <linearGradient id="oda-glass" x2="1" y2="1"><stop stop-color="#e8ffff"/><stop offset=".55" stop-color="#8de9dc"/><stop offset="1" stop-color="#2e9d91"/></linearGradient>
+  </defs>
+  <path fill="#173d39" d="M0 0h88v31H0z"/>
+  <path fill="url(#oda-paper)" stroke="#fffcdf" d="M1.5 1.5h85v28h-85z"/>
+  <path fill="#226f60" d="M3 3h2v25H3zM6 3h1v25H6z"/>
+  <path stroke="#b4c0a4" stroke-width=".5" d="M9 11h46M9 18h46M9 25h46"/>
+  <text x="10" y="12" fill="#193d35" font-family="Georgia,serif" font-size="9.2" font-weight="700" textLength="48" lengthAdjust="spacingAndGlyphs">O DIÁRIO</text>
+  <text x="10" y="24" fill="#267164" font-family="Tahoma,Arial,sans-serif" font-size="10.4" font-weight="700" letter-spacing=".45">ABERTO</text>
+  <path fill="#fffef5" stroke="#7c9881" stroke-width=".7" d="M61 4h14l6 6v15H61z"/>
+  <path fill="#c9d7bb" stroke="#7c9881" stroke-width=".7" d="M75 4v6h6"/>
+  <path stroke="#9caf97" stroke-width="1" d="M64 9h8m-8 4h11m-11 4h11m-11 4h7"/>
+  <path stroke="#143f39" stroke-width="4" d="m75 20 7 7"/>
+  <path stroke="#77b8a6" stroke-width="1" d="m75 20 6 6"/>
+  <circle cx="71" cy="16" r="6.4" fill="url(#oda-glass)" stroke="#1c5e52" stroke-width="2"/>
+  <path fill="none" stroke="#fff" stroke-width="1.4" stroke-linecap="round" d="M67.5 16a3.5 3.5 0 0 1 3.5-3.5"/>
+  <path stroke="#fffdf2" d="M2 2h84"/>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="88" height="31" viewBox="0 0 88 31" role="img" aria-labelledby="twitch-title twitch-desc">
+  <title id="twitch-title">Canal GMRsVoiage na Twitch</title>
+  <desc id="twitch-desc">Web button roxo com tipografia branca, ondas de transmissão e brilho glossy.</desc>
+  <defs>
+    <linearGradient id="twitch-bg" x2="0" y2="1"><stop stop-color="#bfa0ff"/><stop offset=".45" stop-color="#8748d8"/><stop offset=".5" stop-color="#432077"/><stop offset="1" stop-color="#7916ba"/></linearGradient>
+    <linearGradient id="twitch-sheen" x2="1" y2="1"><stop stop-color="#fff" stop-opacity=".65"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+  </defs>
+  <path fill="#291047" d="M0 0h88v31H0z"/>
+  <path fill="url(#twitch-bg)" stroke="#d9c8ff" d="M1.5 1.5h85v28h-85z"/>
+  <path fill="#37135d" stroke="#d7c1ff" stroke-width=".6" d="M5 6h16v14l-5 5h-4v-4H5z"/>
+  <path fill="#fff" d="M8 8h11v10l-4 4v-4H8z"/>
+  <path fill="#6d35ae" d="M11 11h2v5h-2zm4 0h2v5h-2z"/>
+  <text x="27" y="18" fill="#2b0e47" font-family="Arial,sans-serif" font-size="12.8" font-weight="900" textLength="53" lengthAdjust="spacingAndGlyphs">TWITCH</text>
+  <text x="26" y="17" fill="#fff" font-family="Arial,sans-serif" font-size="12.8" font-weight="900" textLength="53" lengthAdjust="spacingAndGlyphs">TWITCH</text>
+  <text x="27" y="25" fill="#e2d4ff" font-family="Tahoma,Arial,sans-serif" font-size="5.8" font-weight="700" letter-spacing=".2">GMRsVoiage</text>
+  <path fill="none" stroke="#ecb6ff" stroke-width=".8" d="M82 6q3 4 0 8m-2-6q1.5 2 0 4"/>
+  <path fill="url(#twitch-sheen)" d="M2 2h84v5Q58 4 25 12H2z"/>
+  <path fill="#fff" d="M80 23h1v5h-1zm-2 2h5v1h-5z"/>
+  <path stroke="#cb99fb" opacity=".7" d="M3 28h82"/>
+</svg>
