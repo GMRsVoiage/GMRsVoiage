@@ -11,7 +11,13 @@
 ![Status](https://img.shields.io/badge/status-always_building-5BB8FF?style=for-the-badge)
 ![Aesthetic](https://img.shields.io/badge/style-Frutiger_Aero-8AD7FF?style=for-the-badge)
 
-**[🌐 Website](https://gmrsvoiage.com.br)** · **[💻 Dev](https://dev.gmrsvoiage.com.br)** · **[🎨 Artes](https://artes.gmrsvoiage.com.br)** · **[📺 Twitch](https://twitch.tv/gmrsvoiage)**
+<!-- Web buttons estáticos em tamanho nativo: links de teclado e foco do próprio GitHub. -->
+<p align="center">
+<a href="https://gmrsvoiage.com.br"><img src="./assets/buttons/gmrsvoiage.svg" width="88" height="31" alt="GMRsVoiage — Website AquaWave" /></a>&nbsp;
+<a href="https://dev.gmrsvoiage.com.br"><img src="./assets/buttons/dev.svg" width="88" height="31" alt="Desenvolvimento — Terminal CRT" /></a>&nbsp;
+<a href="https://artes.gmrsvoiage.com.br"><img src="./assets/buttons/artes.svg" width="88" height="31" alt="Minhas Artes — Galeria digital" /></a>&nbsp;
+<a href="https://twitch.tv/gmrsvoiage"><img src="./assets/buttons/twitch.svg" width="88" height="31" alt="Twitch — Canal GMRsVoiage" /></a>
+</p>
 
 </div>
 
@@ -62,13 +68,21 @@ I love **Frutiger Aero**, nostalgic interfaces and building things that look goo
 
 ## ✨ Em destaque / Featured work
 
+<p>
+<a href="https://github.com/GMRsVoiage/edital-monitor"><img src="./assets/buttons/editais.svg" width="88" height="31" alt="Edital Monitor — Repositório" /></a>&nbsp;
+<a href="https://github.com/GMRsVoiage/oda"><img src="./assets/buttons/oda.svg" width="88" height="31" alt="O Diário Aberto (ODA) — Repositório" /></a>&nbsp;
+<a href="https://github.com/GMRsVoiage/support-site"><img src="./assets/buttons/support.svg" width="88" height="31" alt="GMRsVoiage Support — Repositório" /></a>&nbsp;
+<a href="https://github.com/GMRsVoiage/gmrsvoiage.com.br"><img src="./assets/buttons/gmrsvoiage.svg" width="88" height="31" alt="Ecossistema GMRsVoiage — Repositório" /></a>&nbsp;
+<a href="https://github.com/GMRsVoiage/stream"><img src="./assets/buttons/stream.svg" width="88" height="31" alt="GMRsVoiage Stream — Repositório Nostalgia.exe" /></a>
+</p>
+
 | Projeto | O que estou construindo | Situação |
 | :--- | :--- | :--- |
-| 📰 **[Edital Monitor](https://github.com/GMRsVoiage/edital-monitor)** | Busca gratuita em publicações oficiais de Telêmaco Borba/PR, usando coleta em Python, Cloudflare Workers, D1 e FTS5. **[Acessar](https://editais.gmrsvoiage.com.br)** | **V1 publicada**, em evolução |
-| 🌎 **[O Diário Aberto (ODA)](https://github.com/GMRsVoiage/oda)** | Evolução da pesquisa em publicações oficiais para múltiplos municípios, com coletores, API, cobertura por cidade e foco em segurança. | **Em desenvolvimento** |
-| 🛠️ **[GMRsVoiage Support](https://github.com/GMRsVoiage/support-site)** | Site de assistência técnica, catálogo de serviços e solicitação de orçamento via WhatsApp. A modalidade **Busca & Entrega** está sendo preparada separadamente. **[Acessar](https://suporte.gmrsvoiage.com.br)** | **Site publicado**; expansão planejada |
-| 🌐 **[Ecossistema GMRsVoiage](https://github.com/GMRsVoiage/gmrsvoiage.com.br)** | Hub que conecta projetos, portfólios e serviços, com identidade visual AquaWave, modo Frutiger Aero e modo Vaporwave/Synthwave. **[Acessar](https://gmrsvoiage.com.br)** | **Em evolução** |
-| 📺 **[GMRsVoiage Stream](https://github.com/GMRsVoiage/stream)** | Overlays e cenas para OBS. Direção atual: **Nostalgia.exe**, um desktop fictício inspirado na internet clássica, com chat, webcam, transições e alertas. | **Implementação contínua** |
+| 📰 **Edital Monitor** | Busca gratuita em publicações oficiais de Telêmaco Borba/PR, usando coleta em Python, Cloudflare Workers, D1 e FTS5. **[Acessar](https://editais.gmrsvoiage.com.br)** | **V1 publicada**, em evolução |
+| 🌎 **O Diário Aberto (ODA)** | Evolução da pesquisa em publicações oficiais para múltiplos municípios, com coletores, API, cobertura por cidade e foco em segurança. | **Em desenvolvimento** |
+| 🛠️ **GMRsVoiage Support** | Site de assistência técnica, catálogo de serviços e solicitação de orçamento via WhatsApp. A modalidade **Busca & Entrega** está sendo preparada separadamente. **[Acessar](https://suporte.gmrsvoiage.com.br)** | **Site publicado**; expansão planejada |
+| 🌐 **Ecossistema GMRsVoiage** | Hub que conecta projetos, portfólios e serviços, com identidade visual AquaWave, modo Frutiger Aero e modo Vaporwave/Synthwave. **[Acessar](https://gmrsvoiage.com.br)** | **Em evolução** |
+| 📺 **GMRsVoiage Stream** | Overlays e cenas para OBS. Direção atual: **Nostalgia.exe**, um desktop fictício inspirado na internet clássica, com chat, webcam, transições e alertas. | **Implementação contínua** |
 
 > Os projetos têm estágios diferentes: **site publicado não significa produto finalizado**, e recursos planejados não são apresentados aqui como se já estivessem disponíveis.
 
@@ -78,14 +92,25 @@ I love **Frutiger Aero**, nostalgic interfaces and building things that look goo
 
 Uma rede de experiências conectadas, cada uma com a própria personalidade visual.
 
+<!-- Para adicionar/remover um button, edite um link abaixo e sua linha de descrição. -->
+<!-- &nbsp; + espaço permite um intervalo compacto e quebra de linha em telas estreitas. -->
+<p>
+<a href="https://gmrsvoiage.com.br"><img src="./assets/buttons/gmrsvoiage.svg" width="88" height="31" alt="gmrsvoiage.com.br — Hub central AquaWave" /></a>&nbsp;
+<a href="https://dev.gmrsvoiage.com.br"><img src="./assets/buttons/dev.svg" width="88" height="31" alt="dev.gmrsvoiage.com.br — Portfólio e terminal CRT" /></a>&nbsp;
+<a href="https://artes.gmrsvoiage.com.br"><img src="./assets/buttons/artes.svg" width="88" height="31" alt="artes.gmrsvoiage.com.br — Galeria de artes" /></a>&nbsp;
+<a href="https://kah.gmrsvoiage.com.br"><img src="./assets/buttons/kah.svg" width="88" height="31" alt="kah.gmrsvoiage.com.br — Artes e comissões da Kah" /></a>&nbsp;
+<a href="https://suporte.gmrsvoiage.com.br"><img src="./assets/buttons/support.svg" width="88" height="31" alt="suporte.gmrsvoiage.com.br — GMRsVoiage Support" /></a>&nbsp;
+<a href="https://editais.gmrsvoiage.com.br"><img src="./assets/buttons/editais.svg" width="88" height="31" alt="editais.gmrsvoiage.com.br — Pesquisa em boletins oficiais" /></a>
+</p>
+
 | Endereço | Experiência | Código |
 | :--- | :--- | :--- |
-| **[gmrsvoiage.com.br](https://gmrsvoiage.com.br)** | Hub central · Aero durante o dia, Synthwave à noite | [Repositório](https://github.com/GMRsVoiage/gmrsvoiage.com.br) |
-| **[dev.gmrsvoiage.com.br](https://dev.gmrsvoiage.com.br)** | Portfólio técnico em um terminal interativo com monitor CRT | [Repositório](https://github.com/GMRsVoiage/dev) |
-| **[artes.gmrsvoiage.com.br](https://artes.gmrsvoiage.com.br)** | Galeria de artes com visual Aero Glass | [Repositório](https://github.com/GMRsVoiage/portfolio-artes) |
-| **[kah.gmrsvoiage.com.br](https://kah.gmrsvoiage.com.br)** | Portfólio e comissões da Kah, com identidade pastel própria | [Repositório](https://github.com/GMRsVoiage/kah) |
-| **[suporte.gmrsvoiage.com.br](https://suporte.gmrsvoiage.com.br)** | Serviços de suporte técnico e contato para orçamento | [Repositório](https://github.com/GMRsVoiage/support-site) |
-| **[editais.gmrsvoiage.com.br](https://editais.gmrsvoiage.com.br)** | Pesquisa em boletins oficiais | [Repositório](https://github.com/GMRsVoiage/edital-monitor) |
+| **gmrsvoiage.com.br** | Hub central · Aero durante o dia, Synthwave à noite | [Repositório](https://github.com/GMRsVoiage/gmrsvoiage.com.br) |
+| **dev.gmrsvoiage.com.br** | Portfólio técnico em um terminal interativo com monitor CRT | [Repositório](https://github.com/GMRsVoiage/dev) |
+| **artes.gmrsvoiage.com.br** | Galeria de artes com visual Aero Glass | [Repositório](https://github.com/GMRsVoiage/portfolio-artes) |
+| **kah.gmrsvoiage.com.br** | Portfólio e comissões da Kah, com identidade pastel própria | [Repositório](https://github.com/GMRsVoiage/kah) |
+| **suporte.gmrsvoiage.com.br** | Serviços de suporte técnico e contato para orçamento | [Repositório](https://github.com/GMRsVoiage/support-site) |
+| **editais.gmrsvoiage.com.br** | Pesquisa em boletins oficiais | [Repositório](https://github.com/GMRsVoiage/edital-monitor) |
 
 ---
 

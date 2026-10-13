@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="88" height="31" viewBox="0 0 88 31" role="img" aria-labelledby="editais-title editais-desc">
+  <title id="editais-title">Edital Monitor</title>
+  <desc id="editais-desc">Painel retrô de editais com folha afixada, sinais de busca e cores verde e azul.</desc>
+  <defs>
+    <linearGradient id="editais-bg" x2="0" y2="1"><stop stop-color="#195b94"/><stop offset="1" stop-color="#002d4d"/></linearGradient>
+    <linearGradient id="editais-green" x2="0" y2="1"><stop stop-color="#dcff92"/><stop offset=".45" stop-color="#80ca3e"/><stop offset=".5" stop-color="#3d8a29"/><stop offset="1" stop-color="#b0ed56"/></linearGradient>
+  </defs>
+  <path fill="#0a2934" d="M0 0h88v31H0z"/>
+  <path fill="url(#editais-bg)" stroke="#81bfbc" d="M1.5 1.5h85v28h-85z"/>
+  <path stroke="#286b90" stroke-width=".6" d="M27 4h56M27 8h56M27 12h56M27 16h56M27 20h56M27 24h56M32 3v24M42 3v24M52 3v24M62 3v24M72 3v24M82 3v24"/>
+  <path fill="#0c2439" d="M5 6h19v21H5z"/>
+  <path fill="#f1ffed" stroke="#7cba9f" stroke-width=".7" d="M6 4h16v21H6z"/>
+  <path fill="#cfe3c8" d="M18 4h4v4z"/>
+  <path stroke="#6b9985" d="M9 10h10M9 13h10M9 16h7M9 19h8"/>
+  <circle cx="14" cy="5" r="2" fill="#ffdc58" stroke="#6c792c" stroke-width=".6"/>
+  <path fill="url(#editais-green)" stroke="#d5fc9b" stroke-width=".5" d="M27 5h57v13H27z"/>
+  <text x="30" y="15" fill="#133e2c" font-family="Arial,sans-serif" font-size="10.2" font-weight="900" letter-spacing=".5">EDITAL</text>
+  <text x="30" y="25" fill="#d0f7ff" font-family="monospace" font-size="7.5" font-weight="700" letter-spacing=".75">MONITOR</text>
+  <path fill="none" stroke="#c6ff79" stroke-width=".8" d="M3 10V3h7m68 25h7v-7"/>
+  <path fill="#fff" opacity=".3" d="M28 6h55v3H28z"/>
+</svg>
