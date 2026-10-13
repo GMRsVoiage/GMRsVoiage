@@ -68,13 +68,21 @@ I love **Frutiger Aero**, nostalgic interfaces and building things that look goo
 
 ## ✨ Em destaque / Featured work
 
+<p>
+<a href="https://github.com/GMRsVoiage/edital-monitor"><img src="./assets/buttons/editais.svg" width="88" height="31" alt="Edital Monitor — Repositório" /></a>&nbsp;
+<a href="https://github.com/GMRsVoiage/oda"><img src="./assets/buttons/oda.svg" width="88" height="31" alt="O Diário Aberto (ODA) — Repositório" /></a>&nbsp;
+<a href="https://github.com/GMRsVoiage/support-site"><img src="./assets/buttons/support.svg" width="88" height="31" alt="GMRsVoiage Support — Repositório" /></a>&nbsp;
+<a href="https://github.com/GMRsVoiage/gmrsvoiage.com.br"><img src="./assets/buttons/gmrsvoiage.svg" width="88" height="31" alt="Ecossistema GMRsVoiage — Repositório" /></a>&nbsp;
+<a href="https://github.com/GMRsVoiage/stream"><img src="./assets/buttons/stream.svg" width="88" height="31" alt="GMRsVoiage Stream — Repositório Nostalgia.exe" /></a>
+</p>
+
 | Projeto | O que estou construindo | Situação |
 | :--- | :--- | :--- |
-| <a href="https://github.com/GMRsVoiage/edital-monitor"><img src="./assets/buttons/editais.svg" width="88" height="31" alt="Edital Monitor — Repositório" /></a> | Busca gratuita em publicações oficiais de Telêmaco Borba/PR, usando coleta em Python, Cloudflare Workers, D1 e FTS5. **[Acessar](https://editais.gmrsvoiage.com.br)** | **V1 publicada**, em evolução |
-| <a href="https://github.com/GMRsVoiage/oda"><img src="./assets/buttons/oda.svg" width="88" height="31" alt="O Diário Aberto (ODA) — Repositório" /></a> | Evolução da pesquisa em publicações oficiais para múltiplos municípios, com coletores, API, cobertura por cidade e foco em segurança. | **Em desenvolvimento** |
-| <a href="https://github.com/GMRsVoiage/support-site"><img src="./assets/buttons/support.svg" width="88" height="31" alt="GMRsVoiage Support — Repositório" /></a> | Site de assistência técnica, catálogo de serviços e solicitação de orçamento via WhatsApp. A modalidade **Busca & Entrega** está sendo preparada separadamente. **[Acessar](https://suporte.gmrsvoiage.com.br)** | **Site publicado**; expansão planejada |
-| <a href="https://github.com/GMRsVoiage/gmrsvoiage.com.br"><img src="./assets/buttons/gmrsvoiage.svg" width="88" height="31" alt="Ecossistema GMRsVoiage — Repositório" /></a> | Hub que conecta projetos, portfólios e serviços, com identidade visual AquaWave, modo Frutiger Aero e modo Vaporwave/Synthwave. **[Acessar](https://gmrsvoiage.com.br)** | **Em evolução** |
-| <a href="https://github.com/GMRsVoiage/stream"><img src="./assets/buttons/stream.svg" width="88" height="31" alt="GMRsVoiage Stream — Repositório Nostalgia.exe" /></a> | Overlays e cenas para OBS. Direção atual: **Nostalgia.exe**, um desktop fictício inspirado na internet clássica, com chat, webcam, transições e alertas. | **Implementação contínua** |
+| 📰 **Edital Monitor** | Busca gratuita em publicações oficiais de Telêmaco Borba/PR, usando coleta em Python, Cloudflare Workers, D1 e FTS5. **[Acessar](https://editais.gmrsvoiage.com.br)** | **V1 publicada**, em evolução |
+| 🌎 **O Diário Aberto (ODA)** | Evolução da pesquisa em publicações oficiais para múltiplos municípios, com coletores, API, cobertura por cidade e foco em segurança. | **Em desenvolvimento** |
+| 🛠️ **GMRsVoiage Support** | Site de assistência técnica, catálogo de serviços e solicitação de orçamento via WhatsApp. A modalidade **Busca & Entrega** está sendo preparada separadamente. **[Acessar](https://suporte.gmrsvoiage.com.br)** | **Site publicado**; expansão planejada |
+| 🌐 **Ecossistema GMRsVoiage** | Hub que conecta projetos, portfólios e serviços, com identidade visual AquaWave, modo Frutiger Aero e modo Vaporwave/Synthwave. **[Acessar](https://gmrsvoiage.com.br)** | **Em evolução** |
+| 📺 **GMRsVoiage Stream** | Overlays e cenas para OBS. Direção atual: **Nostalgia.exe**, um desktop fictício inspirado na internet clássica, com chat, webcam, transições e alertas. | **Implementação contínua** |
 
 > Os projetos têm estágios diferentes: **site publicado não significa produto finalizado**, e recursos planejados não são apresentados aqui como se já estivessem disponíveis.
 
@@ -157,4 +165,3 @@ Continuar o desenvolvimento do **ODA**, ampliar o **GMRsVoiage Support**, evolui
 <img src="./assets/frutiger-footer.svg" width="100%" alt="Rodapé Frutiger Aero GMRsVoiage com céu, água, colinas e bolhas" />
 
 </div>
-
