@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="88" height="31" viewBox="0 0 88 31" role="img" aria-labelledby="building-title building-desc">
+  <title id="building-title">Always Building</title>
+  <desc id="building-desc">Web button de construção contínua com ferramenta, laranja e faixas de sinalização.</desc>
+  <defs>
+    <linearGradient id="building-metal" x2="0" y2="1"><stop stop-color="#fff1ca"/><stop offset=".47" stop-color="#c1bba5"/><stop offset=".52" stop-color="#77796e"/><stop offset="1" stop-color="#e7e0c4"/></linearGradient>
+    <linearGradient id="building-orange" x2="0" y2="1"><stop stop-color="#ffef9e"/><stop offset=".45" stop-color="#ffb745"/><stop offset="1" stop-color="#da6123"/></linearGradient>
+    <pattern id="building-stripes" width="10" height="5" patternUnits="userSpaceOnUse"><path fill="#ffd34e" d="M0 0h10v5H0z"/><path fill="#242b29" d="m0 0 5 5h5L5 0z"/></pattern>
+  </defs>
+  <path fill="#30362d" d="M0 0h88v31H0z"/>
+  <path fill="url(#building-metal)" stroke="#ffedc9" d="M1.5 1.5h85v28h-85z"/>
+  <path fill="url(#building-orange)" stroke="#7e512e" stroke-width=".6" d="M4 4h80v20H4z"/>
+  <path fill="#553d25" d="m8 9 3-3 5 5-2 2zm5 4 2-2 8 8-2 2z"/>
+  <path fill="#fff0c4" stroke="#7f5934" stroke-width=".6" d="m8 8 3-3 6 2 2 4-3-1-2 2-1 3-3-1 1-3z"/>
+  <path fill="#e7d2a5" stroke="#66462f" stroke-width=".6" d="m13 12 2-2 9 9-2 2z"/>
+  <text x="29" y="10" fill="#663719" font-family="Tahoma,Arial,sans-serif" font-size="5.8" font-weight="700" letter-spacing="1.1">ALWAYS</text>
+  <text x="27" y="21" fill="#673617" font-family="Arial,sans-serif" font-size="10.3" font-weight="900" textLength="54" lengthAdjust="spacingAndGlyphs">BUILDING</text>
+  <text x="27" y="20" fill="#fff8da" font-family="Arial,sans-serif" font-size="10.3" font-weight="900" textLength="54" lengthAdjust="spacingAndGlyphs">BUILDING</text>
+  <path fill="url(#building-stripes)" d="M3 25h82v3H3z"/>
+  <path fill="#f4f4d7" d="M3 3h1v1H3zm81 0h1v1h-1zM3 23h1v1H3zm81 0h1v1h-1z"/>
+</svg>
